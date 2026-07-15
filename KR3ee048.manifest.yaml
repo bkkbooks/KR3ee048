@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee048/v1
 canonical_location: https://kanripo.org/bkk/KR3ee048/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 子午流注說難
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee048_000.yaml, hash: 'sha256:d327d3330fb861c09196eab9c7ce29a873b35dcbcb285a3570ddb47da4010771'}
-  - {seq: 1, filename: KR3ee048_001.yaml, hash: 'sha256:c00dd6e5b0743c2e7ddc1ed16d0dd4024474baa8d101957373d80ccf683c2c39'}
-  - {seq: 3, filename: KR3ee048_003.yaml, hash: 'sha256:8c7ec838f78eae674d77832d4747c62720e825ee019a638ba376ec5916a18842'}
+  - {seq: 0, filename: KR3ee048_000.yaml, hash: 'sha256:9bc8f5db6c7fd756e17ceec2fe14a4ea943e9fcb2354c64cef33e408323a109f'}
+  - {seq: 1, filename: KR3ee048_001.yaml, hash: 'sha256:0769af582df3d0b866914fc69fb400e6eb0bb43ee1b31ca8cf35062b3ba5208c'}
+  - {seq: 3, filename: KR3ee048_003.yaml, hash: 'sha256:779bb8f67534f8c1df275980c43c85db066d791bce92acdf8c36775efd337456'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee048_000.markers.yaml, hash: 'sha256:c70167c36cc4540e31476a7644f708b7fa7a5978624d90fe58833d43167906d1'}
-  - {seq: 1, role: markers, filename: assets/KR3ee048_001.markers.yaml, hash: 'sha256:86591d776a02853cf88ed5dfd902a0d3bde1588e724e4a987963161d20527d6b'}
-  - {seq: 3, role: markers, filename: assets/KR3ee048_003.markers.yaml, hash: 'sha256:1fed059863d02986db1fad5f6970e7646ff5edea0088dba59bb94c159d722e6c'}
+  - {seq: 0, role: markers, filename: assets/KR3ee048_000.markers.yaml, hash: 'sha256:c7f2a6a3d64e95aa927bf89050c65c41516d45b6cac2979cacfa6f52a9d5a5ba'}
+  - {seq: 1, role: markers, filename: assets/KR3ee048_001.markers.yaml, hash: 'sha256:530e64c0cf9880fc9c34701ecc5dcd7e8851842ac316b4723e6695894f6c41c4'}
+  - {seq: 3, role: markers, filename: assets/KR3ee048_003.markers.yaml, hash: 'sha256:9bfbdcce0d2feaacfa641f7625ffb02d6ae9dfe795ccbc1445780a85576703ce'}
 table_of_contents:
 - ref:
     seq: 0
@@ -365,4 +365,7 @@ table_of_contents:
   label: 附本輸穴即景詩十二首
   type: section
   level: 3
-hash: sha256:1509a155f89434c1dc4cea308151d74ffaf4eca63428af89852e4532a6dfa12a
+hash: sha256:7b42d10c6d3553cd0deda7fff43ece84dc03625de317d913e3c532d29e708d68
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
