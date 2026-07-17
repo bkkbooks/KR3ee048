@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ee048_003-jc.yaml, hash: 'sha256:8c7ec838f78eae674d77832d4747c62720e825ee019a638ba376ec5916a18842'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ee048_000-jc.markers.yaml, hash: 'sha256:0a796ec99c355c362bffe56c44b0e5dfd014a0a2f97bbb2e2ef344251b3c1009'}
-  - {seq: 1, role: markers, filename: assets/KR3ee048_001-jc.markers.yaml, hash: 'sha256:4b92e7707ff54f28d3df889a0c1e5584531026cb2f2b90012fd497732f51f39e'}
-  - {seq: 3, role: markers, filename: assets/KR3ee048_003-jc.markers.yaml, hash: 'sha256:2294c5188b3faa69f551a7228ee851d081bdd76229c48c1039d8ee256fe7824b'}
+  - {seq: 1, role: markers, filename: assets/KR3ee048_001-jc.markers.yaml, hash: 'sha256:f7dae4e50e3accb0eec8127e5ff88baba15e5c225d19df6d622e9c513248f09d'}
+  - {seq: 3, role: markers, filename: assets/KR3ee048_003-jc.markers.yaml, hash: 'sha256:6f16ab6a5c5b1bf0603d99135eaa54c676a3f716f75137b73cfab210f4dd8c27'}
 table_of_contents:
 - ref:
     seq: 0
@@ -365,4 +365,4 @@ table_of_contents:
   label: 附本輸穴即景詩十二首
   type: section
   level: 3
-hash: sha256:57315056b2ad6752508144c2f3a664d42af976b9b1a86dab83e5ffb85f7e00a2
+hash: sha256:2fdb8667905a8361b9581cf9b137b52281ae313eaa80e940fd81b733480eecf1
